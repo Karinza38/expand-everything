@@ -1,4 +1,4 @@
-# Expand Everything
+ # Expand Everything
 
 *Load more!*, *show more!*, *read more!* - these are the cursed buttons that
 website owners make you click before you can see all the information that you
